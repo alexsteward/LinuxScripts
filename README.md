@@ -1,7 +1,21 @@
-# LinuxScripts-SP24
+# Linux Scripts Repository
 
-### Objective:
+## Overview
+This repository contains beginner-level shell scripts that demonstrate fundamental Linux scripting concepts. These scripts aim to help users familiarize themselves with basic commands and logic used in shell scripting.
 
-The goal of this course was to learn basic shell scripts using Linux. All the shell scripts I made throughout my semester at the class have been posted here and will not be modified unless requested. Some scripts are improvements of each other (Ex: ScriptB -> ScriptC -> ScriptD); and some are just their own script without any improvements (EX: lab9a).
+## Categories
 
-Inside each of the files with state what the code was intended for and any updates from the previous code if it was based off one. Anyone is free to use my code just give proper credit when using, and message me if you have any comments or concerns.
+### Basic Shell Scripting
+- **Description:** A collection of simple scripts that introduce the basics of shell scripting in Linux.
+- **Skills Learned:**
+  - Understanding shell scripting syntax and structure
+  - Using conditional statements and loops
+
+  
+### Expect Scripts
+- **Description:** Currently being worked on
+- **Skills Learned:**
+  - Automating user input for interactive programs
+  - Using the Expect scripting language for process control
+
+
